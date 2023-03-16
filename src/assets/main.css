@@ -1,0 +1,11 @@
+@import '@picocss/pico/css/pico.min.css';
+
+:root {
+  --font-size: 14px;
+  --line-height: 1;
+}
+
+body {
+  padding: 0 2em;
+  margin-bottom: 4em;
+}
