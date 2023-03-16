@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "devio-file-uploader"
-  }
+  },
+  "targets": {
+    "devio-file-uploader": {
+      "hosting": {
+        "unsplashed": [
+          "my-unsplashed"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }

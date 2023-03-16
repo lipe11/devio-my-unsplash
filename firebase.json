@@ -4,11 +4,8 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
+    "target": "unsplashed",
     "public": "dist",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
   }
 }
